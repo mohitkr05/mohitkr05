@@ -13,5 +13,6 @@ From a young age, I’ve always been fascinated by technology. Whether I was tin
 
 [![Personal Website - mohitkr.com](https://img.shields.io/badge/-mohitkr.com-ff5757?style=flat-square&logo=ApacheSpark&logoColor=white)]("https://mohitkr.com")
 ![Twitter Follow](https://img.shields.io/badge/-@mohitkrau-00acee?style=flat-square&logo=Twitter&logoColor=white")
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuwTZeFtTow_hhlWPOPOLvQ?style=flat-square)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuwTZeFtTow_hhlWPOPOLvQ?style=flat-square)
+<!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuwTZeFtTow_hhlWPOPOLvQ?style=flat-square)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuwTZeFtTow_hhlWPOPOLvQ?style=flat-square) -->
+
