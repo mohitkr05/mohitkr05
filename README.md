@@ -1,20 +1,17 @@
 <!-- Title -->
-<h1 align="center" title="Namaste...and I'm happy to see you here :)">🙏🏽 Namaste! I'm Mohit</h1>
 
-<!-- Contact and keys -->
-<p align="center">
-<a href="mailto:dailytechlearning@gmail.com" title="Email Address"><code>dailytechlearning at gmail dot com</code></a>   
-</p>
+# Namaste :pray:
 
-<!-- Socials -->
-<p align="center">
-   <kbd>
-  <a href="https://twitter.com/DailyTechLearn" title="Twitter - @dailytechlearn"><img src="https://img.shields.io/badge/-@dailytechlearn-00acee?style=flat&logo=Twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohitkr05" title="LinkedIn - Mohit Kumar"><img src="https://img.shields.io/badge/-Mohit Kumar-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://mohitkr.com" title="Personal Website - mohitkr.com"><img src="https://img.shields.io/badge/-mohitkr.com-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://github.com/mohitkr05" title="GitHub - @mohitkr05"><img src="https://img.shields.io/badge/-mohitkr05-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+> Systems Engineer in Melbourne, from Haridwar India
 
-  </kbd>
-</p>
-<blockquote>
-Systems engineer based in Melbourne, Australia, from Haridwar India.
-</blockquote>
+Hi there! My name is [Mohit](http://mohitkr.com) and welcome to my GitHub profile!
+
+I’ve always been passionate about technology, infrastructure, and security and I’ve spent years honing my skills and knowledge in this field.
+
+From a young age, I’ve always been fascinated by technology. Whether I was tinkering with my desktop, breaking and fixing my laptop, or exploring the latest gadgets, I’ve always been drawn to the endless possibilities and transformations that technology offers. Over time, I’ve developed a deep understanding of how technology works, how it has evolved, and how it continues to shape our world. This passion and expertise have inspired me to pursue a career in IT and Telecom and to share my knowledge and insights with others who share my love of technology.
+
+
+[![Personal Website - mohitkr.com](https://img.shields.io/badge/-mohitkr.com-ff5757?style=flat-square&logo=ApacheSpark&logoColor=white)]("https://mohitkr.com")
+![Twitter Follow](https://img.shields.io/badge/-@mohitkrau-00acee?style=flat-square&logo=Twitter&logoColor=white")
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuwTZeFtTow_hhlWPOPOLvQ?style=flat-square)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuwTZeFtTow_hhlWPOPOLvQ?style=flat-square)
